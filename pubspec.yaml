@@ -1,6 +1,6 @@
 name: ip_geolocation_io
 description: Gets the geolocation with ipgeolocation.io API
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/cedvdb/dart_ip_geolocation_io
 
 environment:
