@@ -1,3 +1,7 @@
+## 1.1.1
+
+- relax dependency upgrade
+
 ## 1.1.0
 
 - upgrade http dependency
