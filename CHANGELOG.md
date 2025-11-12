@@ -1,3 +1,7 @@
+## 1.1.2
+
+- fix typing issue
+
 ## 1.1.1
 
 - relax dependency upgrade
