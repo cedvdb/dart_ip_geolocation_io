@@ -192,10 +192,10 @@ class Currency {
 
 class TimeZone {
   final String name;
-  final int offset;
+  final num offset;
   final DateTime currentTime;
   final bool isDst;
-  final int dstSavings;
+  final num dstSavings;
 
   const TimeZone({
     required this.name,
@@ -258,10 +258,10 @@ class TimeZone {
 
   TimeZone copyWith({
     String? name,
-    int? offset,
+    num? offset,
     DateTime? currentTime,
     bool? isDst,
-    int? dstSavings,
+    num? dstSavings,
   }) {
     return TimeZone(
       name: name ?? this.name,
